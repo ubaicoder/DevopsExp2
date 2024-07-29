@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# DevopsExp2Hello, My name is Sourabh.
+# DevopsExp2Hello
 =======
 # DevopsExp2
 Travel Website
